@@ -1,0 +1,38 @@
+Klasslista
+Möckelngymnasiet Karlskoga
+TE22
+Nr,Namn,Personnummer,Namn förälder,Mobil förälder
+1,Ali Abdi, Farhan,200610159238,Hirsi, Abdi AliADEN NOOR, HABIBA,07283357590728335759
+2,Almarbet, Amer,200609103510,Almarbet, MazenEsmaael, Ruba,07600618240765503825
+3,Axelsson, Oscar,200601083397,Axelsson, Mia,0736855655
+4,Basson, Samuel,200606127637,Granberg, AnnaBasson, Mikael,07058657680734461155
+5,Berg, Anton,200611076076,Magnusson, SaraBerg, Christer,07026581870765295904
+6,Bui, Tony,200601299159,Bui, LamHo, Phuong,07933721800793034581
+7,Carlsén, Eric,200605142454,Carlsén, JessicaCarlsén, Tomas,00467027622950706755011
+8,Duljaj, Maximus,20060614TF11,Lopez, Anehl,070-7509023
+9,Ekström Pontén, Nicodemus,200612096636,Ekström, SofiaLönnström, Mattias,07306294700739255917
+10,Fagerström, Oskar,200604265751,Fagerström, IngerFagerström, Joakim,07099067370702044908
+11,Gullbrand, Mio,200603173675,Gullbrand, MathiasGullbrand, Lina,07078498620707708421
+12,Hafidi, Ario,200608142410,Hafidi, BestonMohammad Abdulla, Drekhshan,0708223734-
+13,Ho, Long,200601017254,Ho, QuangTran, Huong,07044073160762273065
+14,Hodberg, Isac,200606171015,Hodberg, JessicaHodberg, Samir,07072221840706078242
+15,Jansson, Elias,200602152217,Matsson, Anna ThereseJansson, Anders,073-63339350706006090
+16,Karlsson, David,200612118539,Karlsson, RobertKarlsson Agerhem, Lena,07033229130736505332
+17,Karlsson, Emil,200609011499,Karlsson, JessicaKarlsson, Jörgen,076-8127705070-5200723
+18,Liljedahl Norling, Viggo,200610042012,NORLING LILJEDAHL, SARANorling, Andreas,07362455670727001501
+19,Liljekvist, Lennon,200611291055,Liljekvist, ErikaNilsson, Petter,07074688850704283747
+20,Nord, Alexander,200604071654,Nord, LenaNord, Anders,0707670231070-7794860
+21,Ranås, August,200607083391,Ranås, JohanRanås, Karin,07047167950702214805
+22,Singsaeng, Guntirat,200608090924,Singsaeng, ratchananSkjorholdt, Gunnar,0728788992004741298292
+23,Sjödin, Vincent,200603188319,Sjödin, JohannaLindblad, Mikael,07086947630703583242
+24,Svedberg, Emil,200611113978,Svedberg, HelenSvedberg, Stefan,07042178010709672542
+25,Tagner, Elton,200609051214,Tagner, PeterJohansson, Marie,07023051810736871857
+26,Yousif, Ahmed,200610169492,Saadallah, Saba SafaaMohamed, Khaled,07356477530739077960
+27,Zapryvoda, Maksym,200308263656,Zapryvoda, Tetiana,0734245848
+28,Åberg, Sigvard,200603036070,Åberg, DennyBlank Åberg, Anna,0730350061073-9971859
+den 27 augusti 2024,Sida,1, av ,2
+Klasslista
+29,Åkesson, Linus,200505189332,Åkesson, KristinÅkesson, Krister,0739762563073640411
+30,Örtegren Seiver, Vendel,200610057531,Seiver, UlricaÖrtegren, Mats,07370706520705776475
+31,Österberg, Anton,200608109096,Nordström, Camilla,0046739992173
+den 27 augusti 2024,Sida,2, av ,2

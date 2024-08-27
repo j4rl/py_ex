@@ -4,7 +4,7 @@ def click():
     win.destroy()
 
 win = ctk.CTk()
-ctk.set_appearance_mode("light")
+ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("green")
 win.title("Python GUI")
 lable = ctk.CTkLabel(win, text="Hello World", font=("Arial Bold", 20))
