@@ -3,6 +3,7 @@ def add_numbers(a, b):
 
 result = add_numbers(5, 3)
 print(result)  # Output: 8
+
 def subtract_numbers(a, b):
     return a - b
 
