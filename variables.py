@@ -10,7 +10,9 @@ my_dict = {"name": "John", "age": 30}
 
 # Usage
 print(my_int)  # Output: 10
+print(type(my_int))
 print(my_float)  # Output: 3.14
+print(type(my_float))
 print(my_bool)  # Output: True
 print(my_str)  # Output: Hello, world!
 print(my_list)  # Output: [1, 2, 3]

@@ -1,0 +1,37 @@
+PC        Personal Computer
+CPU       Central Processing Unit
+APU       Arithmetic Processing Unit
+GPU       Graphical Processing Unit
+RAM       Random Access Memory
+ROM       Read Only Memory
+BIOS      Basic Input Output System
+POST      Power On Self Test
+HDD       Hard Disk Drive
+SSD       Solid State Drive
+AT        Advanced Technology
+ATA       AT Attachment
+SATA      Serial ATA
+PATA      Parallell ATA
+NT        New Technology
+DDR       Double Data Rate
+SIMM      Single Inline Memory Module
+DIMM      Double Inline Memory Module
+SO-DIMM   Small Outline DIMM
+VGA       Video Graphics Array
+DVI       Digital Visual Interface
+USB       Universal Serial Bus
+HDMI      High Definition Multimedia Interface
+SCSI      Small Computer System Interface
+RAID      Redundant Array of Independent Disks
+AGP       Accelerated Graphics Port
+PS/2      Personal System 2
+PCI       Peripheral Component Interconnect
+PCIe      PCI Express
+ISA       Industry Standard Architecture
+MCA       Micro Channel Architecture
+NVME      Non Volatile Memory Express
+ATX       Advanced Technology Extended
+mATX      Micro ATX
+ITX       Information Technology EXtended
+BTX       Balanced Technology Extended
+PSU       Power Supply Unit
