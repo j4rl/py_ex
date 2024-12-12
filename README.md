@@ -1,4 +1,4 @@
-# Python Test
+# Python examples
 In this repository there is simple examples of Python code.
 They are categorized by the following topics:
 - [Variables and Types](variables.py)
