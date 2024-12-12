@@ -4,7 +4,12 @@ In Python, comments are used to explain the code and make it more readable. They
 - Single-line comments: These comments start with a hash symbol (#) and continue until the end of the line. They are used to explain a single line of code.
 - Multi-line comments: These comments start and end with three single quotes (''') or three double quotes ("""). They are used to explain multiple lines of code.
 ## What should i write in my comment
-When writing comments, it is important to keep them concise and to the point. Comments should explain why the code is written in a certain way, not what the code does. They should also be written in clear and simple language so that anyone reading the code can understand them.
+When writing comments, it is important to keep them concise and to the point. Comments should explain why the code is written in a certain way, not what the code does. They should also be written in clear and simple language so that anyone reading the code can understand them. Your comment should explain WHY you wrote the code, not WHAT the code does.
+Here are some examples of good comments:
+- `# This code calculates the sum of two numbers becaase otherwise the function will not work`
+- `# This code checks if a number is greater than 5, if it's larger, memory will be full` 
+- `# This code loops through a list of numbers and places them in a new list for sorting`
+Here are some examples of bad comments:
 ## When should i comment my code
 You should comment your code whenever you think it is necessary to explain what the code does or why it is written in a certain way. Comments are especially useful when the code is complex or when it is not immediately obvious what the code is doing.
 ## Example
