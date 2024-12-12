@@ -1,6 +1,9 @@
 # Python examples
 In this repository there is simple examples of Python code.
 They are categorized by the following topics:
+- [Commenting in Python](commenting.py)
+- [Fundamental code examples in Python](code_examples.py)
+***
 - [Variables and Types](variables.py)
 - [Conditions](conditions.py)
 - [Loops](loops.py)
