@@ -6,7 +6,7 @@ In Python, comments are used to explain the code and make it more readable. They
 ## What should i write in my comment
 When writing comments, it is important to keep them concise and to the point. Comments should explain why the code is written in a certain way, not what the code does. They should also be written in clear and simple language so that anyone reading the code can understand them. Your comment should explain WHY you wrote the code, not WHAT the code does.
 Here are some examples of good comments:
-- `# This code calculates the sum of two numbers becaase otherwise the function will not work`
+- `# This code calculates the sum of two numbers because otherwise the function will not work`
 - `# This code checks if a number is greater than 5, if it's larger, memory will be full` 
 - `# This code loops through a list of numbers and places them in a new list for sorting`
 Here are some examples of bad comments:
