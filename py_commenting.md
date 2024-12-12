@@ -26,7 +26,8 @@ print("Hello, World!")
 ```
 In this example, the comments explain what the code does and why it is written in a certain way. They make the code more readable and easier to understand.
 ## Header comments for functions and classes
-When writing functions and classes, it is a good idea to include a header comment that explains what the function or class does. This comment should be written in the form of a docstring, which is a multi-line string that is enclosed in triple quotes. Here is an example:
+When writing functions and classes, it is a good idea to include a header comment that explains what the function or class does.  
+Here is an example:
 ```python
 ###############################################
 #  Name: add                                  #
@@ -38,7 +39,17 @@ When writing functions and classes, it is a good idea to include a header commen
 def add(a, b):
     return a + b
 ```
+...or you can use the docstring to write a comment for the function:
+```python
+def add(a, b):
+    """
+    This function adds two numbers and returns the result
+    """
+    return a + b
+```
 In this example, the docstring explains what the `add` function does. It makes it clear to anyone reading the code what the function is supposed to do.
+**The first example is superior because it is more readable and easier to understand.** 
+
 ## Comments for debugging
 Comments can also be used for debugging purposes. You can use comments to temporarily disable a piece of code or to add debugging information to the code. Here is an example:
 ```python
