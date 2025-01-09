@@ -14,6 +14,7 @@ Here are some examples of bad comments:
 - `# This code adds two numbers`
 - `# Setting the constant value to 5`
 - `# This code is a loop`
+- `# Prints "Hello, World!"`
 
 ## When should i comment my code
 You should comment your code whenever you think it is necessary to explain what the code does or why it is written in a certain way. Comments are especially useful when the code is complex or when it is not immediately obvious what the code is doing.
