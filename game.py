@@ -67,9 +67,6 @@ def play_game(acronyms):
 
     submit_button = ctk.CTkButton(root, text="Submit", command=submit_answer)
     submit_button.pack()
-
-
-
     next_question()
 
     root.mainloop()
